@@ -38,7 +38,7 @@ Me chamo Welterson Gabriel, tenho 20 anos e sou natural de Minas Gerais. Atualme
     title="Java" 
     width="60px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
         
 
