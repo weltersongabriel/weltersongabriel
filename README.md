@@ -6,7 +6,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=weltersongabriel&show_icons=true&count_private=true&hide_border=true&title_color=fcfcfc&icon_color=red&text_color=c9d1d9&bg_color=0d1117" alt="Welterson Gabriel github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=weltersongabriel&show_icons=true&count_private=true&hide_border=true&title_color=fcfcfc&icon_color=fcfcfc&text_color=c9d1d9&bg_color=0d1117" alt="Welterson Gabriel github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weltersongabriel&layout=compact&hide_border=true&title_color=fcfcfc&text_color=fff&bg_color=0d1117" />
 </div>
 <br/>
@@ -21,6 +21,7 @@
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>  
 
 ### Tools:
@@ -29,7 +30,7 @@
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+
 
   
 </div>  
