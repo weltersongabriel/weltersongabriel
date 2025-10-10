@@ -16,32 +16,49 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weltersongabriel&bg_color=000000&color=fcfcfc&line=fcfcfc&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Main skills:
+### Linguagens:
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
 </div>  
 
-### Tools:
+
+#### Front-end:
 
 <div style="display: inline_block">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="React" height="" width="" src="https://img.shields.io/badge/React-0A74A6?style=for-the-badge&logo=react&logoColor=white">
 
   
 </div>  
 
- ### Other Knowledge:
+#### Back-end:
+
 <div style="display: inline_block">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Node" height="" width="" src="https://img.shields.io/badge/Node-075504?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+
+  
+</div> 
+
+### Database:
+
+<div style="display: inline_block">
+<img align="center" alt="MySQL" height="" width="" src="https://img.shields.io/badge/MySQL-110595?style=for-the-badge&logo=mysql&logoColor=white">
+  
 </div>  
 
+
+### Ferramentas:
+
+<div style="display: inline_block">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/vs_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+  
+</div>  
 
 </div>  
 
