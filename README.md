@@ -2,16 +2,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fcfcfc&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Welterson+Gabriel!+😎;Estudante+de+Ciência+da+Computação+na+UniFG!+📚;Desenvolvedor+Full+Stack!+🖥️)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcfcfc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Welterson+Gabriel!+😎;Estudante+de+Ciência+da+Computação+na+UniFG!+📚;Desenvolvedor+Full+Stack!+🖥️)](https://git.io/typing-svg)   
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=WeltersonGabriel&theme=monochrome&no-frame=true&margin-w=19&no-bg=true)
+</br>
+<div align="center">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=weltersongabriel&show_icons=true&count_private=true&hide_border=true&title_color=fcfcfc&icon_color=fcfcfc&text_color=c9d1d9&bg_color=0d1117" alt="Welterson Gabriel github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weltersongabriel&layout=compact&hide_border=true&title_color=fcfcfc&text_color=fff&bg_color=0d1117" />
+<!-- Linguagens mais usadas -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weltersongabriel&theme=github_dark" alt="Linguagens mais usadas" height="190">
+
+<!-- Estatísticas gerais -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WeltersonGabriel&theme=github_dark" alt="Resumo" height="190">
+
+<!-- Repositórios por linguagem -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeltersonGabriel&theme=github_dark" alt="Linguagens mais usadas" height="190">
+
 </div>
-<br/>
-<br/>
+
+</br>
+</br>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=weltersongabriel&bg_color=000000&color=fcfcfc&line=fcfcfc&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
