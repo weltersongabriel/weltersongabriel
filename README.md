@@ -8,13 +8,13 @@
 <div align="center">
 
 <!-- Linguagens mais usadas -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weltersongabriel&theme=github_dark" alt="Linguagens mais usadas" height="100">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weltersongabriel&theme=github_dark" alt="Linguagens mais usadas" height="115">
 
 <!-- Estatísticas gerais -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WeltersonGabriel&theme=github_dark" alt="Resumo" height="100">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WeltersonGabriel&theme=github_dark" alt="Resumo" height="115">
 
 <!-- Repositórios por linguagem -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeltersonGabriel&theme=github_dark" alt="Linguagens mais usadas" height="100">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeltersonGabriel&theme=github_dark" alt="Linguagens mais usadas" height="115">
 
 </div>
 
