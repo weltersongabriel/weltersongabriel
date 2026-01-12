@@ -1,7 +1,4 @@
-
-
 # Welterson Gabriel | Desenvolvedor Full Stack 🖥️
-
 
 
 <a href="https://weltersongabriel.github.io/meu_portfolio/" target="_blank">
@@ -55,7 +52,6 @@ Sou uma pessoa que gosta de aprender e está constantemente em busca de novos co
 
 <div style="display: inline_block">
 <img align="center" alt="Node" height="" width="" src="https://img.shields.io/badge/Node-075504?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="Insomnia" height="" width="" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 
@@ -76,6 +72,7 @@ Sou uma pessoa que gosta de aprender e está constantemente em busca de novos co
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/vs_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="center" alt="Insomnia" height="" width="" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
 
   
 </div>  
