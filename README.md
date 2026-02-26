@@ -1,4 +1,4 @@
-# Welterson Gabriel | Desenvolvedor Full Stack 🖥️
+# Welterson Gabriel | Desenvolvedor Back-end 🖥️
 
 
 <a href="https://weltersongabriel.github.io/meu_portfolio/" target="_blank">
@@ -19,8 +19,8 @@
 
 ---
 
-## 🚀 Sobre mim  
-Atualmente, estou em busca de uma oportunidade de estágio como Desenvolvedor Full Stack, com foco no desenvolvimento de soluções digitais e no aprimoramento contínuo das minhas habilidades técnicas.
+## 👨🏻‍💻 Sobre mim  
+Atualmente, estou em busca de uma oportunidade de estágio como Desenvolvedor Back-end, com foco no desenvolvimento de soluções digitais e no aprimoramento contínuo das minhas habilidades técnicas.
 
 Sou uma pessoa que gosta de aprender e está constantemente em busca de novos conhecimentos. A persistência é um dos meus principais pontos fortes, o que me permite enfrentar desafios com dedicação, disciplina e foco em evolução contínua. Tenho interesse em atuar em projetos colaborativos, aplicar boas práticas de programação e crescer profissionalmente, contribuindo para equipes e soluções de impacto na área de tecnologia
 
@@ -29,53 +29,51 @@ Sou uma pessoa que gosta de aprender e está constantemente em busca de novos co
 
 </div>
 
-#### Linguagens:
+#### 🚀 Linguagens:
 <div style="display: inline_block">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
-
-</div>  
+</div> 
 
 
-##### Front-end:
+
+##### ⚙️ Frameworks Back-end:
+
+<div style="display: inline_block">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img align="center" alt=""  height="25px" width="" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</div>
+
+
+#### 🧪 Ferramentas & Ambiente:
+<div style="display: inline_block">
+<img align="center" alt="Node" height="" width="" src="https://img.shields.io/badge/Node-075504?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="Insomnia" height="" width="" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
+</div> 
+
+
+##### 🗄️ Banco de Dados:
+
+<div style="display: inline_block">
+<img align="center" alt="MySQL" height="" width="" src="https://img.shields.io/badge/MySQL-110595?style=for-the-badge&logo=mysql&logoColor=white">
+</div> 
+
+ 
+
+##### 🧩 Conhecimentos Complementares (Front-end):
 
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS" height="" width="" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="React" height="" width="" src="https://img.shields.io/badge/React-0A74A6?style=for-the-badge&logo=react&logoColor=white">
 
   
 </div>  
 
-##### Back-end:
-
-<div style="display: inline_block">
-<img align="center" alt="Node" height="" width="" src="https://img.shields.io/badge/Node-075504?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-
-
-
-  
-</div> 
-
-#### Database:
-
-<div style="display: inline_block">
-<img align="center" alt="MySQL" height="" width="" src="https://img.shields.io/badge/MySQL-110595?style=for-the-badge&logo=mysql&logoColor=white">
   
 </div>  
-
-
-#### Ferramentas:
-
-<div style="display: inline_block">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="center" alt="" height="" width="" src="https://img.shields.io/badge/vs_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img align="center" alt="Insomnia" height="" width="" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
-
-  
-</div>  
+ 
 </br>
 </div>  
 
