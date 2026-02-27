@@ -38,7 +38,7 @@ Sou uma pessoa que gosta de aprender e está constantemente em busca de novos co
 
 
 
-##### ⚙️ Frameworks Back-end:
+#### ⚙️ Frameworks Back-end:
 
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -54,7 +54,7 @@ Sou uma pessoa que gosta de aprender e está constantemente em busca de novos co
 </div> 
 
 
-##### 🗄️ Banco de Dados:
+#### 🗄️ Banco de Dados:
 
 <div style="display: inline_block">
 <img align="center" alt="MySQL" height="" width="" src="https://img.shields.io/badge/MySQL-110595?style=for-the-badge&logo=mysql&logoColor=white">
@@ -62,7 +62,7 @@ Sou uma pessoa que gosta de aprender e está constantemente em busca de novos co
 
  
 
-##### 🧩 Conhecimentos Complementares (Front-end):
+#### 🧩 Conhecimentos Complementares (Front-end):
 
 <div style="display: inline_block">
 <img align="center" alt="" height="" width="" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
