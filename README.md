@@ -73,6 +73,7 @@ Sou movido pelo aprendizado contínuo. A persistência é um dos meus maiores po
 
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/MySQL-110595?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
 
