@@ -4,7 +4,7 @@
 ```
  Welterson Gabriel
 ```
-<h3>Desenvolvedor Back-end · Dados & Análise em construção</h3>
+<h3>Desenvolvedor Full Stack · Dados & Análise em construção</h3>
 
 <a href="https://weltersongabriel.github.io/wg/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -26,9 +26,10 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Desenvolvedor Back-end em busca de oportunidade de estágio, com foco crescente na área de **dados**. Tenho explorado análise e visualização de dados com Python, construindo dashboards e pipelines que transformam informação em decisão.
+Desenvolvedor **Full Stack** em busca de estágio, com experiência na criação de aplicações web completas e APIs. Tenho interesse crescente em **dados**, utilizando Python para análise, visualização e construção de dashboards.
 
-Sou movido pelo aprendizado contínuo. A persistência é um dos meus maiores pontos fortes — encaro desafios com dedicação, disciplina e olhar voltado para a evolução constante. Busco contribuir em times colaborativos, aplicando boas práticas de programação e crescendo em projetos de impacto, especialmente na interseção entre **back-end e engenharia/análise de dados**.
+Sou persistente, disciplinado e focado em evolução contínua, buscando contribuir em projetos colaborativos — especialmente na interseção entre **full stack e dados**.
+
 
 ---
 
@@ -36,8 +37,9 @@ Sou movido pelo aprendizado contínuo. A persistência é um dos meus maiores po
 
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
 #### ⚙️ Frameworks Back-end:
@@ -45,6 +47,14 @@ Sou movido pelo aprendizado contínuo. A persistência é um dos meus maiores po
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</div>
+
+#### 🎨 Front-end:
+
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
 #### 📊 Dados & Visualização:
@@ -60,13 +70,6 @@ Sou movido pelo aprendizado contínuo. A persistência é um dos meus maiores po
   <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Node-075504?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-#### 🎨 Front-end (Base):
-
-<div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 #### 🗄️ Banco de Dados:
