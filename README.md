@@ -21,7 +21,6 @@
 
 ---
 
-## 📊 Estatísticas
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.shion.dev/api?username=weltersongabriel&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d"/>
