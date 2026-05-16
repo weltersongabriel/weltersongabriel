@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack · Dados & Análise em construção
 
-<a href="https://weltersongabriel.github.io/wg/" target="_blank">
+<a href="https://weltersongabriel.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/welterson-gabriel-131473313" target="_blank">
@@ -24,7 +24,7 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.shion.dev/api?username=weltersongabriel&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d"/>
-  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=weltersongabriel&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=10&hide=html,css,Mako,Procfile&border_color=30363d"/>
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=weltersongabriel&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=10&hide=html,css,Mako,Procfile,Hack&border_color=30363d"/>
 </div>
 
 ---
@@ -46,6 +46,7 @@ Busco evoluir constantemente e contribuir em projetos colaborativos — principa
   <img src="https://img.shields.io/badge/Python-32547e?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-5A189A?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
@@ -60,6 +61,7 @@ Busco evoluir constantemente e contribuir em projetos colaborativos — principa
   <img src="https://img.shields.io/badge/HTML-a00909?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-002fff?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Bootstrap-4B0082?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 ### 📊 Dados
