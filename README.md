@@ -30,7 +30,7 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.shion.dev/api?username=weltersongabriel&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d"/>
-  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=weltersongabriel&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=10&hide=html,css,Mako,Procfile,Hack&border_color=30363d"/>
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=weltersongabriel&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=10&hide=html,css,Hack,Procfile&border_color=30363d"/>
   
 </div>
 
@@ -39,9 +39,9 @@
 ## 👨🏻‍💻 Sobre mim
 Estudante de **Ciência da Computação (UniFG)** e desenvolvedor **Full-Stack em formação**, com experiência prática 
 construindo e publicando projetos próprios de ponta a ponta — do banco de dados à interface. Já desenvolvi um 
-micro-SaaS funcional (Chama Aí) e um site institucional em produção (Cyberdragon), usando Python, FastAPI, React, 
-TypeScript, PHP e MySQL. Tenho facilidade de aprendizado, gosto de resolver problemas reais e busco minha primeira 
-oportunidade profissional para crescer ao lado de um time experiente.  
+micro-SaaS funcional (Chama Aí), utilizando Python, FastAPI, React, TypeScript, PHP, Laravel e MySQL. 
+Tenho facilidade de aprendizado, gosto de resolver problemas reais e busco minha primeira oportunidade 
+profissional para crescer ao lado de um time experiente. 
 
 ---
 
@@ -51,21 +51,22 @@ oportunidade profissional para crescer ao lado de um time experiente.
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="35"/>
   <img src="https://skillicons.dev/icons?i=javascript,typescript" height="35"/>
+  <img src="https://skillicons.dev/icons?i=php" height="37"/>
 </div>
 
 #### ⚙️ Back-end
 <div>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" height="35"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,laravel" height="35"/>
 </div>
 
 #### 🎨 Front-end
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,react" height="35"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,blade" height="35"/>
 </div>
 
 #### 🧪 Ferramentas
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,git,vscode" height="35"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,linux" height="35"/>
 </div>
 
 #### 🗄️ Banco de Dados
